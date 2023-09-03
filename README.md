@@ -106,7 +106,7 @@ After processing all grids, the method returns the outputImage, which now contai
 #### Same follows for green and blue filter.
 
 ### 10. Crop Image 
-![image](Crop_from_all_directions..jpg)
+![image](Crop_from_all_directions.jpg)
 ##### This function crops an input image by removing a specified number of pixels from all four sides (top, bottom, left, and right) of the image. It essentially trims the image by pixels pixels from each side, resulting in a smaller image with its center portion preserved.
 
 - Parameters
